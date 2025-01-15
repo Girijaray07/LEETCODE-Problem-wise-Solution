@@ -53,5 +53,3 @@ A sequence of `n` integers is called a **permutation** if it contains all intege
 ### Notes:
 - The problem focuses on permutations and efficient computation of prefix common arrays.
 - Solutions should account for performance, given the constraints.
-
----
