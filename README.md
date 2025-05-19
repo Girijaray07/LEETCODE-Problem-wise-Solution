@@ -1,46 +1,82 @@
-# LeetCode Problems and Solutions
+# 🚀 LeetCode Problems & Solutions
 
-Welcome to the **LeetCode Problems and Solutions** repository! This repository is a curated collection of LeetCode problems and their solutions, organized into **categories** such as Arrays, Strings, and more. Each category folder contains sub-folders for individual problems, named by their titles, along with solutions written in **Python**, **C**, or other programming languages.
+Welcome to the **LeetCode Problems & Solutions Repository** — a structured, high-quality collection of coding problems solved across multiple languages. This repository is designed for learners, interview preppers, and contributors alike, organized by **topics**, enriched with **clear explanations**, and implemented in **multiple languages** like **Python**, **C**, and **Java**.
 
+---
 
-## Goals
+## 🌟 Objectives
 
-- **Categorical Organization:** Find problems grouped by categories like Arrays, Strings, etc.
-- **Multi-Language Solutions:** Provide solutions in Python, C, Java, and other languages.
-- **Learning Focus:** Offer clean, efficient, and well-documented solutions to help others learn and improve.
-- **Community Contributions:** Encourage contributions to expand and improve the collection.
+* ✅ **Topic-Based Categorization** – Easily explore problems grouped under categories like Arrays, Strings, Trees, etc.
+* 🧠 **Learning-Oriented** – Clean, readable, and efficient solutions with clear documentation.
+* 🌐 **Multi-Language Support** – Solve and study problems in **Python**, **C**, **Java**, and more.
+* 🤝 **Community Collaboration** – Open to contributions from developers worldwide.
 
+---
 
-### Explanation:
-1. **Category Folder** (e.g., `Array`): Contains problems related to a specific topic.
-2. **Problem Folder** (e.g., `Find the Prefix Common Array of Two Arrays`): Includes files for the specific problem:
-   - `Problem.md`: Problem description, examples, and constraints.
-   - `Solution.<language>`: Solution implementation in the chosen language.
+## 📁 Repository Structure
 
+```
+<category>/
+│
+├── <problem-title>/
+│   ├── Problem.md         # Problem description, examples, and constraints
+│   ├── Solution.py        # Python solution
+│   ├── Solution.c         # C solution
+│   └── Solution.java      # Java solution
+```
 
-## How to Use
+### Example:
 
-1. Navigate to the **category folder** of your interest (e.g., `Array`).
-2. Open the specific **problem folder** to view:
-   - **`Problem.md`**: Contains the problem description and constraints.
-   - **Solution files** (`Solution.py`, `Solution.c`, etc.): Provide implementations of the problem.
-3. Study the problem and review the solution in the language of your choice.
+```
+Array/
+├── Two Sum/
+│   ├── Problem.md
+│   ├── Solution.py
+│   └── Solution.c
+```
 
+---
 
-## Contributing
+## 📌 How to Navigate
 
-We welcome contributions from the community! To contribute:
+1. Browse to your topic of interest (e.g., `Array`, `String`, `Graph`).
+2. Open the relevant **problem folder**.
+3. Read the **`Problem.md`** for the question, examples, and constraints.
+4. Review solutions in your preferred programming language.
 
-1. Fork the repository.
-2. Add solutions or problem descriptions for new or existing problems in the appropriate category folder.
-3. Submit a pull request with your changes.
+---
 
+## 🧺 How to Contribute
 
-## Notes
+We welcome and encourage contributions!
 
-- Each problem is sourced from [LeetCode](https://leetcode.com).
-- Solutions are optimized for readability and performance.
-- The repository will be updated regularly with new problems and solutions.
+### Steps to Contribute:
 
+1. **Fork** the repository.
+2. **Add** or **update** problems and solutions in the correct category folder.
+3. Ensure you follow the format:
 
-Happy coding! 🚀
+   * `Problem.md` for description
+   * `Solution.<language>` for the implementation
+4. **Submit a Pull Request** with a meaningful description.
+
+> Please ensure code is clean, optimized, and well-commented.
+
+---
+
+## 📚 Notes
+
+* All problems are sourced from [LeetCode](https://leetcode.com).
+* This is an **educational** repository to enhance problem-solving and coding skills.
+* We regularly update the repository with new problems and enhanced solutions.
+
+---
+
+## 💡 Inspiration
+
+Whether you're preparing for coding interviews or leveling up your algorithm skills, this repository is built to support and accelerate your journey.
+
+---
+
+**Happy Coding! 🧑‍💻📈**
+**Let’s grow together as problem solvers!**
